@@ -1,17 +1,15 @@
 # Hi there! 👋
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+JavaScript+Developer;TypeScript+Enthusiast;React+%7C+Vue+%7C+Qwik+Developer;Always+learning+new+things!" alt="Typing SVG" />
-</div>
-
-## 🚀 About Me
-
 I'm a passionate JavaScript developer who loves building modern web applications with cutting-edge frameworks. I enjoy exploring new technologies and turning ideas into reality through clean, efficient code.
 
 - 🔭 Currently working on exciting projects with **React**, **Vue**, and **Qwik**
 - 🌱 Always learning and experimenting with the latest JS/TS features
 - 💡 Love sharing knowledge and contributing to open source
 - ⚡ Fun fact: I can switch between frameworks faster than you can say "JavaScript fatigue"
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=latiosthinh&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</div>
 
 ## �️  Tech Stack
 
@@ -38,26 +36,6 @@ I'm a passionate JavaScript developer who loves building modern web applications
 
 </div>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=latiosthinh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=latiosthinh&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=latiosthinh&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=latiosthinh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</div>
-
 ## 🌐 Connect with Me
 
 <div align="center">
@@ -70,15 +48,7 @@ I'm a passionate JavaScript developer who loves building modern web applications
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=latiosthinh&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</div>
-
-<div align="center">
   
 **"Code is like humor. When you have to explain it, it's bad." – Cory House**
 
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
