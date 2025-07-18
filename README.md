@@ -11,7 +11,7 @@ I'm a passionate JavaScript developer who loves building modern web applications
   <img src="https://komarev.com/ghpvc/?username=latiosthinh&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
 
-## �️  Tech Stack
+## ⭐  Tech Stack
 
 <div align="center">
 
